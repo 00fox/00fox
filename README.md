@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![00fox_banner](00fox_banner.png)
 <!--
 **00fox/00fox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
