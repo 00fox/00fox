@@ -1,6 +1,7 @@
 ![00fox_banner](00fox_banner.png)
 
 Hi, Launch of FoxDB, a library for World of Warcraft and soon FreeMind, a very complete addon that uses it.
+I'm going to rework Ds2vJoy into something simpler to use later.
 
 <!--
 **00fox/00fox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
